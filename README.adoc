@@ -1,1 +1,1 @@
-Gestion du temps sans bloqué le restant du code
+Gestion du temps Arduino sans bloquage du restant du code
